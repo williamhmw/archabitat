@@ -1,11 +1,11 @@
 ---
-name: Tails Azimuth
+name: William Honorio
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
+occupation: Estudante de arquitetura e Urbanismo
+company: Archabitat
+email: william.hm.w@hotmail.com
 twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
+linkedin: https://www.linkedin.com/in/william-honorio-m/
 github: https://github.com
 ---
 
