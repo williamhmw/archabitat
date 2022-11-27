@@ -16,7 +16,7 @@ const siteMetadata = {
   facebook: 'https://www.facebook.com/archabitat.oficial',
   youtube: 'https://www.youtube.com/@archabitat',
   linkedin: 'https://www.linkedin.com/company/archabitatoficial',
-  locale: 'en-US',
+  locale: 'pt-BR',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
@@ -24,7 +24,7 @@ const siteMetadata = {
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: false, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
-    googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
+    googleAnalyticsId: 'G-4W90G1DKLW', // e.g. UA-000000-2 or G-XXXXXXX
     posthogAnalyticsId: '', // posthog.init e.g. phc_5yXvArzvRdqtZIsHkEm3Fkkhm3d0bEYUXCaFISzqPSQ
   },
   newsletter: {
